@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="88153b81-0092-4faf-b1c1-c17b3a4377e0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/150523.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pygoogle/pygoogle.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pygoogle/setup.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/150524.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="VIS.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -44,6 +43,7 @@
         <option value="$PROJECT_DIR$/pygoogle/pygoogle.py" />
         <option value="$PROJECT_DIR$/pygoogle/setup.py" />
         <option value="$PROJECT_DIR$/test/150523.py" />
+        <option value="$PROJECT_DIR$/test/150524.py" />
       </list>
     </option>
   </component>
@@ -125,7 +125,7 @@
       <recent name="$PROJECT_DIR$/pygoogle" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.150523">
+  <component name="RunManager" selected="Python.150524">
     <configuration default="false" name="150523" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -139,6 +139,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="VIS" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/150523.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="150524" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="VIS" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/150524.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -265,12 +282,14 @@
       <option name="USE_KEYWORD" value="false" />
       <method />
     </configuration>
-    <list size="1">
+    <list size="2">
       <item index="0" class="java.lang.String" itemvalue="Python.150523" />
+      <item index="1" class="java.lang.String" itemvalue="Python.150524" />
     </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Python.150523" />
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Python.150524" />
+        <item index="1" class="java.lang.String" itemvalue="Python.150523" />
       </list>
     </recent_temporary>
   </component>
@@ -288,7 +307,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="30" width="1368" height="739" extended-state="7" />
+    <frame x="-1" y="30" width="1368" height="739" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -310,6 +329,14 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -358,6 +385,16 @@
         <state vertical-scroll-proportion="0.4840336">
           <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/150524.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8487395">
+          <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+          <folding>
+            <element signature="e#26#41#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
